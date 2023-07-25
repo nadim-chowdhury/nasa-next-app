@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-100 py-6 mt-8">
       <div className="max-w-2xl mx-auto flex items-center">
-        <Link href="nadim.vercel.app" className="text-blue-500 mr-2">
+        <Link href="https://nadim.vercel.app" className="text-blue-500 mr-2">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
